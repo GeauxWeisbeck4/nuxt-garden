@@ -1,5 +1,6 @@
 <template>
   <main>
+    <h1>Nuxt Garden</h1>
     <nav>
       <a href="/">Home</a>
       <a href="/about">About</a>

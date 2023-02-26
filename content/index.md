@@ -1,9 +1,5 @@
-# Nuxt Content
+# Working in Public - 50 Days of Projects
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+Welcome to the Nuxt-Garden, a digital garden built on Nuxt Content. You've come to the perfect place for all things Vue, Nuxt, and everything in between!
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
-
----
-
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+I may be using this digital garden for my 50 days of projects for sharing my work in public.
